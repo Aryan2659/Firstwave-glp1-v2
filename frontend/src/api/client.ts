@@ -67,7 +67,7 @@ export type Filters = {
   offset?: number;
 };
 
-const API_BASE = "/api";
+const API_BASE = "https://firstwave-glp1-v2-production-4fca.up.railway.app/api";
 
 async function request<T>(path: string, init?: RequestInit): Promise<T> {
   const r = await fetch(`${API_BASE}${path}`, {
