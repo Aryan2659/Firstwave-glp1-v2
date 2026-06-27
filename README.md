@@ -1,4 +1,4 @@
-# FirstWave 🌊
+# FirstWave 
 
 > **Early prescriber intelligence for oral GLP-1 launches.**
 > Tells a pharma sales rep which 50 of their 800 physicians to visit first — and why.
